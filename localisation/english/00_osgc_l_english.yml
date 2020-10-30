@@ -1,0 +1,10 @@
+l_english:
+ # Custom Traits
+  trait_ruler_diplo_tech:0 "Thesis Defender"
+  trait_ruler_diplo_tech_desc:1 "This leader is skilled at using the scientific method in diplomatic procedures."
+  trait_ruler_diplo_econ:0 "Xenoeconomy Specialist"
+  trait_ruler_diplo_econ_desc:1 "This leader has studied other empire's economies extensively."
+  trait_ruler_diplo_fleet:0 "Big Stick"
+  trait_ruler_diplo_fleet_desc:1 "This leader is skilled in flaunting their empire's military might gracefully in diplomatic situations."
+  trait_ruler_diplo_pops:0 "Working Man"
+  trait_ruler_diplo_pops_desc:1 "This leader is viewed as a hard working common man."
