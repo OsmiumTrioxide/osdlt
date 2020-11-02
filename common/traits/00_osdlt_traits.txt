@@ -16,7 +16,8 @@
 #Custom Traits
 
 trait_ruler_diplo_tech = {
-	cost = 2
+	cost = 1
+	initial = yes
 	modification = no
 	icon = "gfx/interface/icons/traits/leader_traits/trait_diplo_tech.dds"
 	leader_potential_add = {
@@ -31,7 +32,8 @@ trait_ruler_diplo_tech = {
 }
 
 trait_ruler_diplo_econ = {
-	cost = 2
+	cost = 1
+	initial = yes
 	modification = no
 	icon = "gfx/interface/icons/traits/leader_traits/trait_diplo_econ.dds"
 	leader_potential_add = {
@@ -46,7 +48,8 @@ trait_ruler_diplo_econ = {
 }
 
 trait_ruler_diplo_fleet = {
-	cost = 2
+	cost = 1
+	initial = yes
 	modification = no
 	icon = "gfx/interface/icons/traits/leader_traits/trait_diplo_fleet.dds"
 	leader_potential_add = {
@@ -61,7 +64,8 @@ trait_ruler_diplo_fleet = {
 }
 
 trait_ruler_diplo_pops = {
-	cost = 2
+	cost = 1
+	initial = yes
 	modification = no
 	icon = "gfx/interface/icons/traits/leader_traits/trait_diplo_pop.dds"
 	leader_potential_add = {
